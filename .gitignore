@@ -19,6 +19,24 @@
 .env.test.local
 .env.production.local
 
+# logs
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+# TypeScript build files (if applicable)
+*.js
+
+# IDE/editor folders
+.vscode/
+
+# Next.js / Nuxt.js build output (if applicable)
+.next/
+dist/
+
+# Yarn v2
+.yarn/
+
+# Optional caches (eslint, stylelint, etc.)
+.eslintcache
+.stylelintcache

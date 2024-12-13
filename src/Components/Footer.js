@@ -25,7 +25,7 @@ function Footer() {
       </div>
       <div className="border-t border-gray-300 w-[80%] mt-4"></div>
       <div className='mt-4'>
-        <p>Copyright © 2024 True Engineer. All rights reserved.</p>
+        <p>Copyright © 2024 VocalEase. All rights reserved.</p>
       </div>
     </div>
   );
